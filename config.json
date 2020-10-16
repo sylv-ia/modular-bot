@@ -1,0 +1,7 @@
+{
+  "token": "token goes here",
+  "moduleDirectory": "./modules",
+  "activeModules": [
+    "template"
+  ]
+}
