@@ -30,7 +30,7 @@ node .
 
 # modules
 
-By default, modules go in the modules folder. Modules are Discord bots on their own, but thanks to how theey're formatted, they work seamlessly with modular-bot. 
+By default, modules go in the modules folder. Modules are Discord bots on their own, but thanks to how they're formatted, they work seamlessly with modular-bot. 
 
 modular-bot is included with a sample module called template. The template module demonstrates the 3 types of commands modular-bot supports: 
 
