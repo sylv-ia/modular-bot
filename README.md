@@ -80,8 +80,8 @@ Phrase is the phrase used to trigger that command. Function is the function that
 
 modular-bot supports 3 types of commands: exact, includes, startsWith. 
 
-Exact commands run if a meessage is equal to the phrase string.
-Includes commands run if a meessage includes the phrase string. StartsWith commands run if a meessage starts with the phrase string.
+Exact commands run if a message is equal to the phrase string.
+Includes commands run if a message includes the phrase string. StartsWith commands run if a message starts with the phrase string.
 
 The command types are all aptly named, really. 
 
